@@ -1,3 +1,6 @@
+#This note up here is a test to see if I forked the project correctly and can make commits 
+#to the 'master' that I created when forking.
+
 # WikiRider
 ##
 Do a Wikirun directly from your terminal ( assuming you use Linux or Mac )!<br />
